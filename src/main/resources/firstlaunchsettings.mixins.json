@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.firstlaunchsettings.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "firstlaunchsettings.refmap.json",
+  "client": [
+    "OptionInstanceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
